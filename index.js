@@ -74,6 +74,9 @@ WowelTest("tecnologia e informatica");
 //  do = 1
 //  sem = 1
 
+console.log('');
+console.log('Question 4')
+
 function testRepeating(param) {
     str = param;
     str = str.toLowerCase();
@@ -104,7 +107,8 @@ testRepeating("o rato roeu a roupa roida do rato sem roupa");
 
 // 5) Escreva um metodo que leia 15 numeros reais. Após, o método deve calcular 
 // e exibir o resultado da media aritmética simples desses 15 números lidos.
-
+console.log('');
+console.log('Question 5')
 function CalcMedia() {
     var media;
 
