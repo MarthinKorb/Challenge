@@ -1,4 +1,3 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 # Challenge
 > Desafio de lógica com algoritmos desenvolvidos com a linguagem Javascript
@@ -14,4 +13,3 @@ VS Code
 
 [LinkedIn](https://www.linkedin.com/in/marthin-korb-10728b12a/)
 
-[linkedin-url]: https://www.linkedin.com/in/marthin-korb-10728b12a/
