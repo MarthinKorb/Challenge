@@ -9,7 +9,7 @@
 
 function formatDate(userDate) {
     const dateArray = userDate.split('/');
-    const dateFormated = `${dateArray[2]}-${dateArray[0]}-${dateArray[1]}`;
+    const dateFormated = `${dateArray[2]}${dateArray[0]}${dateArray[1]}`;
     return (`Question 1 - ${dateFormated}`);
     // format from M/D/YYYY to YYYYMMDD
 }
